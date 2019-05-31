@@ -1,0 +1,24 @@
+{
+  "name": "bookstorerestapi",
+  "version": "1.0.0",
+  "description": "bookstore application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javaughn98/BookstoreRESTAPI.git"
+  },
+  "author": "Javaughn Burke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javaughn98/BookstoreRESTAPI/issues"
+  },
+  "homepage": "https://github.com/javaughn98/BookstoreRESTAPI#readme"
+}
